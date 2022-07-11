@@ -1,0 +1,7 @@
+package com.atoz;
+
+import HttpServlet;
+
+public class SquareServlet extends HttpServlet {
+
+}
